@@ -1,5 +1,5 @@
 # PixalizeImage
 
 ## Demo
-https://github.com/Nautiyalsachin/PixalizeImage/blob/master/ezgif.com-resize.gif
+![Demo](https://github.com/Nautiyalsachin/PixalizeImage/blob/master/ezgif.com-resize.gif)
 
